@@ -17,3 +17,4 @@ class TestCompoundInterest(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+# Patch 5 Commit 1: Adding a comment to test_compound.py
