@@ -11,3 +11,4 @@ if __name__ == "__main__":
     print(f"Compound interest for principal {p}, rate {r}% and time {t} years is: {result:.2f}")
 # Commit 1: Adding a comment to compound.py
 # Commit 2: Adding a comment to compound.py
+# Commit 3: Adding a comment to compound.py
