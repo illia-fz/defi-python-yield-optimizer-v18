@@ -1,0 +1,17 @@
+[project]
+name = "defi-python-project"
+version = "0.1.0"
+
+[tool.poetry]
+name = "defi-python-project"
+version = "0.1.0"
+description = "A Python project for DeFi related calculations."
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
