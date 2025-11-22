@@ -9,3 +9,4 @@ if __name__ == "__main__":
     t = 2
     result = compound_interest(p, r, t)
     print(f"Compound interest for principal {p}, rate {r}% and time {t} years is: {result:.2f}")
+# Commit 1: Adding a comment to compound.py
